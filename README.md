@@ -76,6 +76,8 @@
        - 📂 __thomas\_calculus__
          - 📄 [Instructors Solutions Manual to Thomas Calculus 14th Edition by Duane Kouba, George B. Thomas, Maurice D. Weir, Joel R. Hass.pdf](mathematics/calculus/thomas_calculus/Instructors%20Solutions%20Manual%20to%20Thomas%20Calculus%2014th%20Edition%20by%20Duane%20Kouba%2C%20George%20B.%20Thomas%2C%20Maurice%20D.%20Weir%2C%20Joel%20R.%20Hass.pdf)
          - 📄 [Thomas Calculus 14th Edition by George B. Thomas, Joel R. Hass, Christopher Heil, Maurice D. Weir.pdf](mathematics/calculus/thomas_calculus/Thomas%20Calculus%2014th%20Edition%20by%20George%20B.%20Thomas%2C%20Joel%20R.%20Hass%2C%20Christopher%20Heil%2C%20Maurice%20D.%20Weir.pdf)
+     - 📂 __Rosen_discrete__
+         - 📄 [Discrete Mathematics and Its Applications 8th Edition by Kenneth H. Rosen.pdf](mathematics/discrete/Rosen_discrete/Discrete%20mathematics%20and%20its%20applications%20(8th%20edition)%20by%20Kenneth%20H.%20Rosen.pdf)
      - 📂 __linear\_algebra__
        - 📄 [Linear Algebra and Its Applications 5th Edition by David C. Lay, Steven R. Lay, Judi J. McDonald.pdf](mathematics/linear_algebra/Linear%20Algebra%20and%20Its%20Applications%205th%20Edition%20by%20David%20C.%20Lay%2C%20Steven%20R.%20Lay%2C%20Judi%20J.%20McDonald.pdf)
        - 📄 [Linear Algebra and Its Applications, 4th Edition by Gilbert Strang.pdf](mathematics/linear_algebra/Linear%20Algebra%20and%20Its%20Applications%2C%204th%20Edition%20by%20Gilbert%20Strang.pdf)
